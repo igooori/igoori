@@ -1,15 +1,14 @@
 # igoori
 
-### Привет! Я разработчик из России 👋
+### Привет! Я бэкенд разработчик👋
 
-Увлекаюсь бэкендом, созданием Telegram-ботов, баз данных и разработкой игр. Пишу код, который работает быстро и решает реальные задачи.
+Занимаюсь созданием Telegram-ботов, баз данных. Пишу код, который работает быстро и решает реальные задачи.
 
 #### 🛠️ Мой стек технологий:
 * **Языки:** Python
 * **Telegram & Web:** aiogram 3.x, FastAPI, WebSockets
 * **Базы данных & Оптимизация:** PostgreSQL, SQLAlchemy, ClickHouse (опыт работы с индексами на миллиарды строк), Redis, Alembic
 * **Инструменты & DevOps:** Docker, Git, Linux (Kali/Ubuntu), VPS, Nginx, Pytest, 3X-UI (VLESS/Reality)
-* **Игры:** Godot Engine (GDScript)
 
 #### 🚀 Мои ключевые проекты:
 * **[MemorizeBot](https://github.com/igooori/Memorizebot.git)** — Telegram-бот с модульной архитектурой для хранения и организации файлов.
