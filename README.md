@@ -16,6 +16,8 @@
 * **[OSINT Search Tool](https://github.com/igooori/osint_public.git)** — Сервис поиска по базам данных (миллиарды записей) с кастомными индексами для быстрого ответа на HDD.
 * **[BeautyScheduler-API](https://github.com/igooori/BeautyScheduler-API.git)** — Асинхронное API системы бронирования (FastAPI + PostgreSQL + тесты на Pytest).
 * **[Face Analyzer Bot](https://github.com/igooori/face.git)** — Бот на aiogram с интеграцией Gemini API для анализа фотографий.
+* **[Valashka](https://github.com/igooori/valashka)** —  Коммерческий Telegram-бот на aiogram с интеграцией платежей (ЮKassa + крипта), системой подписок и CRM на базе Google Sheets.
+* **[fractal_bot](https://github.com/igooori/fractal_bot.git)** — fractal_bot — Telegram-бот с фрактальной логикой / генерацией разных фракталов (недоделан)
 
  📫 **Как связаться со мной:**
 * Telegram: (@igor_karapov)
